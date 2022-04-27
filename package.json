@@ -13,7 +13,10 @@
   "license": "ISC",
   "dependencies": {
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-icons": "^4.3.1",
+    "react-search-autocomplete": "^6.0.0",
+    "react-simple-image-slider": "^2.4.1"
   },
   "jest": {
     "moduleNameMapper": {
