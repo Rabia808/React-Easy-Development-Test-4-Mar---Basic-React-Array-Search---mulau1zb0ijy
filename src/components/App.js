@@ -5,6 +5,7 @@ import Slider2 from './Slider2';
 import Slider3 from './Slider3';
 import Slider4 from './Slider4';
 import Slider5 from './Slider5';
+import Slider6 from './Slider6';
 
 
 const App = () => {
@@ -16,6 +17,7 @@ const App = () => {
       <Slider3/>
       <Slider4/>
       <Slider5/>
+      <Slider6/>
     </div>
   )
 }
